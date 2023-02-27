@@ -1,0 +1,15 @@
+C:\Users\Татьяна\Desktop\Обучение\Семинары по С#\HomeWork9\Task1\obj\Debug\net7.0\Task1.csproj.AssemblyReference.cache
+C:\Users\Татьяна\Desktop\Обучение\Семинары по С#\HomeWork9\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Татьяна\Desktop\Обучение\Семинары по С#\HomeWork9\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+C:\Users\Татьяна\Desktop\Обучение\Семинары по С#\HomeWork9\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+C:\Users\Татьяна\Desktop\Обучение\Семинары по С#\HomeWork9\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Desktop\Обучение\Семинары по С#\HomeWork9\Task1\bin\Debug\net7.0\Task1.exe
+C:\Users\Татьяна\Desktop\Обучение\Семинары по С#\HomeWork9\Task1\bin\Debug\net7.0\Task1.deps.json
+C:\Users\Татьяна\Desktop\Обучение\Семинары по С#\HomeWork9\Task1\bin\Debug\net7.0\Task1.runtimeconfig.json
+C:\Users\Татьяна\Desktop\Обучение\Семинары по С#\HomeWork9\Task1\bin\Debug\net7.0\Task1.dll
+C:\Users\Татьяна\Desktop\Обучение\Семинары по С#\HomeWork9\Task1\bin\Debug\net7.0\Task1.pdb
+C:\Users\Татьяна\Desktop\Обучение\Семинары по С#\HomeWork9\Task1\obj\Debug\net7.0\Task1.dll
+C:\Users\Татьяна\Desktop\Обучение\Семинары по С#\HomeWork9\Task1\obj\Debug\net7.0\refint\Task1.dll
+C:\Users\Татьяна\Desktop\Обучение\Семинары по С#\HomeWork9\Task1\obj\Debug\net7.0\Task1.pdb
+C:\Users\Татьяна\Desktop\Обучение\Семинары по С#\HomeWork9\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+C:\Users\Татьяна\Desktop\Обучение\Семинары по С#\HomeWork9\Task1\obj\Debug\net7.0\ref\Task1.dll
